@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "46c5e2cb1e9641cbd880ff9ead59435817a81ab5e37c8105c337ac028dea7e75"
+build_start_time: [1693995178, 317534000]
+build_end_time: [1693995179, 266273000]
+inputs:
+  "/Users/aboelghet/Desktop/ITI/iOS Swift/EmployeeManager/Employee-Manager/AppDelegate.swift": [1693905805, 0]
+  "/Users/aboelghet/Desktop/ITI/iOS Swift/EmployeeManager/Employee-Manager/SceneDelegate.swift": [1693905805, 0]
+  "/Users/aboelghet/Desktop/ITI/iOS Swift/EmployeeManager/Employee-Manager/ViewController.swift": [1693995177, 623951952]
