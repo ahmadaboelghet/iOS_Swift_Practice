@@ -1,4 +1,4 @@
-# iOS_Swift_Practice
+# iOS Swift Practice
 
 This repo cotains ios using swift practice includes many swift projects and problem sets:
 . Collection View
