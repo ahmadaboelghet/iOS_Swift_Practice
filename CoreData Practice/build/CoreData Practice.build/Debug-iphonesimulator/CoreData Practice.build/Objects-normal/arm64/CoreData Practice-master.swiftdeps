@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b066043cda11e996d8161eeab5ea18a816113d5cace87e0e1a9c52ae94173d6f"
+build_start_time: [1694533302, 610594000]
+build_end_time: [1694533303, 17597000]
+inputs:
+  "/Users/aboelghet/Desktop/ITI \U0001F9D7\U0001F947/iOS Swift/CoreData Practice/CoreData Practice/AppDelegate.swift": !dirty [1694533163, 489428310]
+  "/Users/aboelghet/Desktop/ITI \U0001F9D7\U0001F947/iOS Swift/CoreData Practice/CoreData Practice/SceneDelegate.swift": [1694533163, 491524965]
+  "/Users/aboelghet/Desktop/ITI \U0001F9D7\U0001F947/iOS Swift/CoreData Practice/CoreData Practice/ViewController.swift": [1694533301, 778324871]
+  ? "/Users/aboelghet/Desktop/ITI \U0001F9D7\U0001F947/iOS Swift/CoreData Practice/build/CoreData Practice.build/Debug-iphonesimulator/CoreData Practice.build/DerivedSources/CoreDataGenerated/CoreData_Practice/CoreData_Practice+CoreDataModel.swift"
+  : [1694533302, 465216655]
+  ? "/Users/aboelghet/Desktop/ITI \U0001F9D7\U0001F947/iOS Swift/CoreData Practice/build/CoreData Practice.build/Debug-iphonesimulator/CoreData Practice.build/DerivedSources/CoreDataGenerated/CoreData_Practice/User+CoreDataClass.swift"
+  : [1694533302, 466595356]
+  ? "/Users/aboelghet/Desktop/ITI \U0001F9D7\U0001F947/iOS Swift/CoreData Practice/build/CoreData Practice.build/Debug-iphonesimulator/CoreData Practice.build/DerivedSources/CoreDataGenerated/CoreData_Practice/User+CoreDataProperties.swift"
+  : [1694533302, 467135561]

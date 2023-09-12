@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+CoreData Practice in CoreData Practice, no dependencies
